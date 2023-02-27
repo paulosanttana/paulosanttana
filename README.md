@@ -2,8 +2,10 @@
 ## My name is Paulo Santana and my nickname is "paulosanttana"! 👋
 
 
-- 🔭 I’m currently working on full stack JS (React JS, Node JS and Postgres)
+- 🔭 I’m currently working on full stack JS developer (React JS, Node JS and Postgres)
 - 🌱 I’m currently learning Javascript
+
+## Focus on Node JS (jsnad) certification 
 <!--
 **paulosanttana/paulosanttana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
